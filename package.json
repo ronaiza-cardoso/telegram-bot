@@ -1,0 +1,15 @@
+{
+  "name": "comoiscreveisso-bot",
+  "version": "0.0.1",
+  "description": "whaat?",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "telegram-node-bot": "^4.0.5"
+  }
+}
